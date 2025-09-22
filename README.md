@@ -1,1 +1,1 @@
-#Qr Code Front end Mentor
+# Qr Code Front end Mentor
